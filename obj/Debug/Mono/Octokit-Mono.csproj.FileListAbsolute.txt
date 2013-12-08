@@ -1,5 +1,0 @@
-I:\GitHub\octokit.net\Octokit\obj\Debug\Mono\Octokit-Mono.csprojResolveAssemblyReference.cache
-I:\GitHub\octokit.net\Octokit\bin\Debug\Mono\Octokit.dll
-I:\GitHub\octokit.net\Octokit\bin\Debug\Mono\Octokit.pdb
-I:\GitHub\octokit.net\Octokit\obj\Debug\Mono\Octokit.dll
-I:\GitHub\octokit.net\Octokit\obj\Debug\Mono\Octokit.pdb
