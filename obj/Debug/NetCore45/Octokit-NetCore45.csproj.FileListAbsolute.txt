@@ -1,0 +1,6 @@
+I:\GitHub\octokit.net\Octokit\bin\Debug\NetCore45\Octokit.dll
+I:\GitHub\octokit.net\Octokit\bin\Debug\NetCore45\Octokit.pdb
+I:\GitHub\octokit.net\Octokit\bin\Debug\NetCore45\Octokit.dll.CodeAnalysisLog.xml
+I:\GitHub\octokit.net\Octokit\obj\Debug\NetCore45\Octokit.dll
+I:\GitHub\octokit.net\Octokit\obj\Debug\NetCore45\Octokit.pdb
+I:\GitHub\octokit.net\Octokit\bin\Debug\NetCore45\Octokit.dll.lastcodeanalysissucceeded

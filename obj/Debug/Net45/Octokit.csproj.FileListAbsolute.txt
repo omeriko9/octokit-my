@@ -1,0 +1,7 @@
+I:\GitHub\octokit.net\Octokit\bin\Debug\Net45\Octokit.dll
+I:\GitHub\octokit.net\Octokit\bin\Debug\Net45\Octokit.pdb
+I:\GitHub\octokit.net\Octokit\obj\Debug\Net45\Octokit.csprojResolveAssemblyReference.cache
+I:\GitHub\octokit.net\Octokit\obj\Debug\Net45\Octokit.dll
+I:\GitHub\octokit.net\Octokit\obj\Debug\Net45\Octokit.pdb
+I:\GitHub\octokit.net\Octokit\bin\Debug\Net45\Octokit.dll.CodeAnalysisLog.xml
+I:\GitHub\octokit.net\Octokit\bin\Debug\Net45\Octokit.dll.lastcodeanalysissucceeded
